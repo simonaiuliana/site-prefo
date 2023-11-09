@@ -32,9 +32,20 @@ body{
     width: 1144px;
     background-attachment: fixed;
     word-spacing: 5px;
+  }
+   #ul {
     
+    list-style-type: none;
+    margin-left: 750px;
+    margin-top: 450px;
+    padding: 0;
+    font-size:xx-large;
+    letter-spacing: 7px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }
+  
 
-  }  
+   
  /*  
   body::before {
     content: "";
