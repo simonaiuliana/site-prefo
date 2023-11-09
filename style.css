@@ -20,7 +20,7 @@ body{
     z-index: -1;
   }  */
   body {
-    background-image: url(image/img6.jpg);
+    background-image: url(galerie/image/img6.jpg);
     position: relative;
     background-repeat: no-repeat;
     margin: 30px;
