@@ -14,6 +14,7 @@ body{
     -webkit-background-size:cover;
     -o-background-size:cover;
     background-size:cover;
+    
 }
     h1 {
         color:rgb(131, 72, 5);
@@ -32,7 +33,7 @@ body{
         margin-right: 250px;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
         word-spacing: 5px;
-        line-height: 27px;
+        line-height: 25px;
         
       }
       div ul {
